@@ -1,0 +1,28 @@
+[
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "publication_year": 1925
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publication_year": 1960
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "publication_year": 1949
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publication_year": 2023
+      },
+      {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publication_year": 2023
+      }
+  ]
+  

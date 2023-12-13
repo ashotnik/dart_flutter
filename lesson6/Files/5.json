@@ -1,0 +1,18 @@
+5. Create a JSON string representing a list of books, each with properties like title, author, and publication year. Decode the JSON string and print the details of each book to the console. 
+ 5.1. Differentiate the books by it's publication year. For instance, those books were pubished in 2023, filter out and print the list of that books.
+ 5.2. Create a new files named "old-books.json" and "new-books.json". Write the content to the files from filtered lists accordingly.
+  old-books.json example:
+  	{
+		"newBooks": [
+   		....
+		]
+	}
+  new-books.json example:
+  	{
+		"newBooks": [
+   		....
+		]
+	}
+
+6. Write a Dart program that reads a JSON file containing a list of numbers. Sum the numbers and print the result to the console.
+ 6.1. Modify the program to write the sum to a new file named "sum.txt".
